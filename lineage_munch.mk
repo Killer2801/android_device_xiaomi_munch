@@ -17,7 +17,7 @@ $(call inherit-product, device/xiaomi/munch/device.mk)
 # Flags
 PRODUCT_BUILD_PROP_OVERRIDES += \
     RISING_CHIPSET="Snapdragon 870 5G" \
-    RISING_MAINTAINER="Prateek Gurjar"
+    RISING_MAINTAINER="KILLER_0P"
 RISING_PACKAGE_TYPE := VANILLA_AOSP
 TARGET_ENABLE_BLUR := true
 TARGET_PREBUILT_LAWNCHAIR_LAUNCHER := true
